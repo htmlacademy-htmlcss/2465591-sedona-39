@@ -1,7 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Владислав Кореньков](https://up.htmlacademy.ru/htmlcss/39/user/2465591).
-* Наставник: `Неизвестно`.
+* Наставник: [Владислав Ермолаев](https://htmlacademy.ru/profile/id128353).
+* Сайт: [Седона](https://kreonix.github.io/2465591-sedona-39/).
 
 ---
 
